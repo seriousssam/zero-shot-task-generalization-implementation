@@ -1,10 +1,10 @@
 # Zero-shot Task Generalization: implementation with a new environment
 
 ## Status
-Cleaning the code on this and organizing this README is a work in progress. It will be complete by late November. 
+The code and pdf for this project will be added by end of November 2018.
 
 ## Intro
-Project conducted with Prof. Michael Yip.
+Project conducted with Chao Yu for Prof. Michael Yip's class Robot Reinforcement Learning (ECE 276C).
 
 This project consists in:
 1) A new simple maze-like game environment that can be used for reinforcement learning with task-generalization (loosely based on the environment described in Oh et al)
@@ -15,9 +15,7 @@ This project consists in:
 - Continue the explanation on this README
 - Add the code after cleaning it a bit
 - Add gifs and/or images
-
-## Files
-  - Final report pdf
+- Add pdf report
 
 ## Background
 ...
