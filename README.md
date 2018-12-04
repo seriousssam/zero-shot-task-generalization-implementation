@@ -1,7 +1,7 @@
 # Zero-shot Task Generalization: implementation with a new environment
 
 ## Status
-The code and pdf for this project will be added by end of November 2018.
+The code and pdf for this project will be added by mid December 2018.
 
 ## Intro
 Project conducted with Chao Yu for Prof. Michael Yip's class Robot Reinforcement Learning (ECE 276C).
