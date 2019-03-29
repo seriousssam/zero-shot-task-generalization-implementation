@@ -1,7 +1,9 @@
 # Zero-shot Task Generalization: implementation with a new environment
 
 ## Status
-The code and pdf for this project is work in progress.
+The pdf for the project is here on github (above this text (?))
+The code for this project is work in progress -- it's a mess and I don't want you to look at a mess.
+Youtube video: https://youtu.be/gsufHS-bqxA.
 
 ## Intro
 Project conducted with Chao Yu for Prof. Michael Yip's class Robot Reinforcement Learning (ECE 276C).
