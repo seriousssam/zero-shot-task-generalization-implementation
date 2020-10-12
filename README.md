@@ -13,6 +13,7 @@ This project consists in:
 2) An implementation of Oh et al's paper: "Zero-Shot Task Generalization with Multi-Task Deep Reinforcement Learning" (https://arxiv.org/abs/1706.05064) -- which does not have published code.
 
 ## Files
+- report.pdf contains the written report that accompanied the project submission
 - envandnets.py contains the env and the teacher training and network.
 - dist.py contains the teachers data structure, the teacher testing, the policy distillation, and the GAE training, as well as the pskill and meta-controller networks.
 - The majority of this code was written from scratch. For A3C, we used https://github.com/dgriff777/rl_a3c_pytorch.
